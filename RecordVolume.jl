@@ -1,6 +1,6 @@
 #=
     Note: set number of threads and restart vs code
-    if considered necesary 
+    if considered necesary. I´ve originaly set the number of threads 20 in settings. 
     =#
 
 #Define Function to Record Simulation
